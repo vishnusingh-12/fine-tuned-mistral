@@ -11,8 +11,8 @@ Fine tunes the Mistral 7B LLM to custom data that contains python codes so that 
 - Can be pushed to Hugging Face as well using your own api token.
 ## Screenshots
 
-![App Screenshots](https://raw.githubusercontent.com/vishnusingh-12/chat-with-pdf/main/readme/cbot2.PNG)
-![App Screenshots](https://raw.githubusercontent.com/vishnusingh-12/chat-with-pdf/main/readme/cbot.PNG)
+![App Screenshots](https://raw.githubusercontent.com/vishnusingh-12/fine-tuned-mistral/main/readme/Capture.PNG)
+![App Screenshots](https://raw.githubusercontent.com/vishnusingh-12/fine-tuned-mistral/main/readme/Capture3.PNG)
 
 
 
