@@ -1,4 +1,4 @@
-# Chat with pdfs
+# Fine tune Mistral 7B
 
 Fine tunes the Mistral 7B LLM to custom data that contains python codes so that the model writes accurate python codes. 
 
@@ -18,19 +18,16 @@ Fine tunes the Mistral 7B LLM to custom data that contains python codes so that 
 
 
 ## Deployment
-<pre>git clone  https://github.com/vishnusingh-12/fine-tuned-mistral
+<pre>git clone  https://github.com/vishnusingh-12/fine-tuned-mistral</pre>
 
 
-The model uses GPU with CUDA 11.8 to run for which LlamaCpp has to be configured differently. Follow the below link for reference:
-https://python.langchain.com/docs/integrations/llms/llamacpp
-
-The model uses a quantized llama 2 model and can also run on cpu with no change in the code. If LlamaCpp Cuda version is available it uses GPU else it uses CPU. 
-
-
+The .ipynb file can be directly uploaded to colab and can be run in the T4 GPU runtime. With a few tweaks any model can be fine tuned on any other dataset.
+ 
+  
 ## Technologies
 <img src="https://raw.githubusercontent.com/vishnusingh-12/chat-with-pdf/main/readme/chatwithpdf.PNG">
 
-## Support
+## Support 
 
 For support, contact me:
 
