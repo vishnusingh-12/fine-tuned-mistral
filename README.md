@@ -25,7 +25,7 @@ The .ipynb file can be directly uploaded to colab and can be run in the T4 GPU r
  
   
 ## Technologies
-<img src="https://raw.githubusercontent.com/vishnusingh-12/chat-with-pdf/main/readme/chatwithpdf.PNG">
+<img src="https://raw.githubusercontent.com/vishnusingh-12/fine-tuned-mistral/main/readme/Capture2.PNG">
 
 ## Support 
 
